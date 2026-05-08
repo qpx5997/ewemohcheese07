@@ -351,14 +351,14 @@ python makes it cumpolsry, and js and c++ dont, and 🐑Ⓜ️😮🧀 doesnt cu
 
 EcxAMPLE OF INDENTATION!!
 
-`
+```
 ➰⏩2
     🖨️⏩yay eendentayshun
     ➰⏩2
         🖨️⏩yay eendentayshun
     ⬆️
 ⬆️
-`
+```
 
 ## chapter 12: exiting
 
