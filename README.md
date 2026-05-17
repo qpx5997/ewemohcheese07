@@ -149,7 +149,7 @@ WOW!!! THAT WAS EASY!!!
 
 ### no it isnt!!! idk how to emoji
 
-r u really that dumb? just press windows and the period key, or full stop if u come from the uk.
+windows and the period key, or full stop if u come from the uk. basic keyboard shortcuts!
 
 ### VARIABLRE TINE!!!!!!!!!!
 
